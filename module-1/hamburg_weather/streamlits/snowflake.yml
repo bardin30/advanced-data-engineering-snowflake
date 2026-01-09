@@ -1,0 +1,11 @@
+definition_version: 2
+entities:
+  weather_app_adv:
+    type: streamlit
+    identifier:
+      name: weather_app_adv
+    stage: streamlit_apps
+    query_warehouse: COMPUTE_WH
+    main_file: app.py
+    artifacts:
+      - app.py
