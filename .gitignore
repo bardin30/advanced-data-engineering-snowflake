@@ -1,0 +1,11 @@
+# Snowflake credentials
+.env
+*.env
+.snowflake/
+connections.toml
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
