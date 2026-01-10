@@ -1,5 +1,5 @@
 ## Advanced Data Engineering with Snowflake 
- 
+  
 #### How to use this repo throughout the course:
 
 To successfully follow along with the instructor during the course, you'll need to make use of the code in this repo. To follow along, you can either:
